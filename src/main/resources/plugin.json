@@ -1,0 +1,10 @@
+{
+  "id": "action1",
+  "version": "1.0.0-beta1",
+  "displayName": "Action1",
+  "vendor": "Mart\u00edn Romera",
+  "license": "Proprietary",
+  "description": "Action1 RMM/patch-management integration: endpoint inventory (SYNC_ASSETS) and CVE vulnerabilities (SYNC_VULNS). Sourced from the official Action1Corp/PSAction1 SDK, not verified against a live tenant.",
+  "sdkVersion": "1",
+  "icon": "/img/sources/action1.svg"
+}
